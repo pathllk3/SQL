@@ -1,8 +1,8 @@
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
-    <Name>MYSQL-PHP</Name>
-    <ProjectGuid>{6339caa6-7991-40b3-8a34-c817cf767a80}</ProjectGuid>
+    <Name>MYSQ-PHP</Name>
+    <ProjectGuid>{908bd516-ebaa-4056-96d9-47236aecf030}</ProjectGuid>
     <RootNamespace>
     </RootNamespace>
     <OutputType>Library</OutputType>
